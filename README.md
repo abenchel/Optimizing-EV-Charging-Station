@@ -83,11 +83,12 @@ After running the script, a small window will appear where you need to choose a 
 
 🎯 Future Improvements
 
-🔄 Real-time station demand updates using dynamic datasets.
+- 🔄 Real-time station demand updates using dynamic datasets.
 
-🏙 Expansion to other urban infrastructure like parking spaces & public transport hubs.
+- 🏙 Expansion to other urban infrastructure like parking spaces & public transport hubs.
 
-🧠 Integration with AI models for predictive analytics.
+- 🧠 Integration with AI models for predictive analytics.
+
 
 👥 Contributors
 
