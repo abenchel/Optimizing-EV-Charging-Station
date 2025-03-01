@@ -1,0 +1,7 @@
+pandas
+numpy
+folium
+matplotlib
+tkinter
+scikit-learn
+webbrowser
