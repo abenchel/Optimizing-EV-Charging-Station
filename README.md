@@ -53,7 +53,7 @@ This project is implemented using:
 
 📥 Download Data
 
-The required dataset can be downloaded from Kaggle: https://www.kaggle.com/code/jocelyndumlao/ev-distribution-traits-analysis/input' . Make sure to place the dataset in folder before running the project.
+The required dataset can be downloaded from Kaggle: EV Distribution Traits Analysis. Make sure to place the dataset in folder before running the project.
 
 
 📌 Installation
