@@ -49,11 +49,42 @@ This project is implemented using:
 
 ---
 
-## 🚀 Getting Started
+🚀 Getting Started
 
-### 📌 Installation
+📌 Installation
 
 Clone the repository:
+
 ```bash
-git clone https://github.com/yourusername/EV-Charging-Optimization.git
+https://github.com/abenchel/Optimizing-EV-Charging-Station.git
+cd Optimizing-EV-Charging-Station
+```
+
+Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+🏃 Run the Project
+
+To execute clustering and visualize results:
+
+```bash
 python k-medians.py
+```
+
+After running the script, a small window will appear where you need to choose a value for k (the number of charging stations). Once selected, a .html file will be generated in the project folder. Open this file using Live Server to visualize the optimized charging station locations interactively.
+
+🎯 Future Improvements
+
+🔄 Real-time station demand updates using dynamic datasets.
+
+🏙 Expansion to other urban infrastructure like parking spaces & public transport hubs.
+
+🧠 Integration with AI models for predictive analytics.
+
+👥 Contributors
+
+Benchelha Ayoub
+
+Ouhammou Brahim
