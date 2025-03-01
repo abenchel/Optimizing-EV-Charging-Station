@@ -51,6 +51,11 @@ This project is implemented using:
 
 🚀 Getting Started
 
+📥 Download Data
+
+The required dataset can be downloaded from Kaggle: https://www.kaggle.com/code/jocelyndumlao/ev-distribution-traits-analysis/input' . Make sure to place the dataset in folder before running the project.
+
+
 📌 Installation
 
 Clone the repository:
@@ -59,6 +64,7 @@ Clone the repository:
 https://github.com/abenchel/Optimizing-EV-Charging-Station.git
 cd Optimizing-EV-Charging-Station
 ```
+
 
 Install dependencies:
 ```bash
